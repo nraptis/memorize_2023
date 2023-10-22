@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E80259892AE4A2DD00560822 /* FlyingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = E80259882AE4A2DD00560822 /* FlyingNumber.swift */; };
 		E8875CDF2AE20A8E008F7B2B /* AspectVGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8875CDE2AE20A8E008F7B2B /* AspectVGrid.swift */; };
 		E8875CE12AE211C9008F7B2B /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8875CE02AE211C9008F7B2B /* CardView.swift */; };
 		E8875CE32AE21D65008F7B2B /* Pie.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8875CE22AE21D65008F7B2B /* Pie.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E80259882AE4A2DD00560822 /* FlyingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlyingNumber.swift; sourceTree = "<group>"; };
 		E8875CDE2AE20A8E008F7B2B /* AspectVGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AspectVGrid.swift; sourceTree = "<group>"; };
 		E8875CE02AE211C9008F7B2B /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		E8875CE22AE21D65008F7B2B /* Pie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pie.swift; sourceTree = "<group>"; };
@@ -73,6 +75,7 @@
 				E8875CE02AE211C9008F7B2B /* CardView.swift */,
 				E8875CE22AE21D65008F7B2B /* Pie.swift */,
 				E8875CE42AE30E44008F7B2B /* Cardify.swift */,
+				E80259882AE4A2DD00560822 /* FlyingNumber.swift */,
 			);
 			path = Memorize;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 			files = (
 				E8A8AF932ADB896C00017034 /* EmojiMemoryGameView.swift in Sources */,
 				E8A8AF912ADB896C00017034 /* MemorizeApp.swift in Sources */,
+				E80259892AE4A2DD00560822 /* FlyingNumber.swift in Sources */,
 				E8875CE52AE30E44008F7B2B /* Cardify.swift in Sources */,
 				E8F788052ADDC0AE007658EA /* MemoryGame.swift in Sources */,
 				E8875CDF2AE20A8E008F7B2B /* AspectVGrid.swift in Sources */,
